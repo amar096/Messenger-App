@@ -1,0 +1,4 @@
+This Messenger app is buid using React and Firebase.
+The extra build in featurs are inherited from Material UI and react-flip-move(for little animation while posting messages)
+
+Its a very basic application just for a demio  purpose
